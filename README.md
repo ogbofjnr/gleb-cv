@@ -24,4 +24,5 @@ millimetres from the top-left corner of an A4 page. Because this preserves a
 fixed one-page design, render and inspect the PDF after expanding the text.
 The text is selectable, and email, LinkedIn and company links are clickable.
 
-The original personal PDF is not included. The repository is local only.
+The original source PDF is not included. The compiled CV contains the contact
+details shown in the LaTeX source.
